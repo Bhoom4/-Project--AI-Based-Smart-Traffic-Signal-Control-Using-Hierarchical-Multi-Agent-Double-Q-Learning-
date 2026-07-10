@@ -3,8 +3,6 @@
 
 ### **An Intelligent Adaptive Traffic Management System using Hierarchical Multi-Agent Reinforcement Learning**
 
-*Final Year B.E. Project | Computer Science & Engineering (AI & ML)*
-
 ---
 
 ## Table of Contents
